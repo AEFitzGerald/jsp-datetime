@@ -1,0 +1,21 @@
+body,
+.wrapper {
+	margin: 50px auto;
+	
+}
+
+a,
+#date-text,
+#time-text {
+	font-size: 4em;
+	text-align: center;
+}
+
+a,
+#date-text {
+	color: blue;
+}
+
+#time-text {
+	color: #008000;
+}
